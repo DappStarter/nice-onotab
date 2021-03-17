@@ -1,0 +1,9 @@
+{
+    "name": "Dappiness!",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true
+    }
+}
